@@ -1,7 +1,5 @@
 
 """main.py - KaPe Coffee Shop Management System (console version).
-
-Run with:  python main.py
 Management login:  admin / kape123
 """
 
